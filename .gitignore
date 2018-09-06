@@ -1,3 +1,14 @@
+# Standard stuff
+.DS_Store
+.AppleDouble
+.LSOverride
+
+
+# IntelliJ stuff
+.idea
+*.iml
+*.iws
+
 # Dart stuff
 .dart_tool
 .packages
